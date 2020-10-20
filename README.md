@@ -1,4 +1,23 @@
 # This is a guide to set up ssh connection between git and github
+## Generate ssh key on localhost first
+### create a github account
+
+- copy the ssh key from localhost with
+...
+
+cat id_rsa.pub
+...
+
+- paste the public key on your github in settings GPG SSH key option in your
+  profile
+- once saved go back to your terminal
+- run the git hub command
+...
+
+git add .
+git commit -m "name"
+git push -u origin main
+...
 
  - Download Git or GitBash (Mac and Linux has it already)
  - Make a folder using mkdir
