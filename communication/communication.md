@@ -1,7 +1,7 @@
 # Notes on communication from day two
 
 
-Ith's Principles:
+##Ith's Principles:
  
  * Everything we do is a form of communication.
  * The way we begin our message often determines the outcome.
@@ -9,7 +9,7 @@ Ith's Principles:
 
 
 
-The Effect of Poor Communication on Business:
+## The Effect of Poor Communication on Business:
 
  * Loss of potential business
  * Mistakes
@@ -18,7 +18,7 @@ The Effect of Poor Communication on Business:
 
 
 
-Barriers to Good Communication:
+## Barriers to Good Communication:
 
  * Language barriers
  * Groups not being on the same page
@@ -31,8 +31,12 @@ Barriers to Good Communication:
 
 
 
-Positive Actions Within the Workplace:
+## Positive Actions Within the Workplace:
 
  * Don't stereotype.
  * Be open to ideas outside of the box or your existing beliefs.
  * Stay level headed and treat other people with respe
+
+## 6 Thinking Hats (white, yellow, black, red, green, blue)
+ 
+  ![](/6_hats.png)
