@@ -39,7 +39,7 @@
 
 ## 6 Thinking Hats (white, yellow, black, red, green, blue)
  
-  ![](6_hats.png =100x20)
+  ![](6_hats.png =250x)
 
 
 
