@@ -7,4 +7,4 @@
 
 ## Benjamin Bloom's Thinking Triangle Shows us How to Apply Critical Thinking Skills
 
-### ![](thinking_triangle.jpg)
+# ![](thinking_triangle.jpg)
