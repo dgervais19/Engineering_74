@@ -39,4 +39,14 @@
 
 ## 6 Thinking Hats (white, yellow, black, red, green, blue)
  
-  ![](6_hats.png)
+  ![](6_hats.png =100x20)
+
+
+
+## Cognitive Biases
+ 
+ * This refers to the part of the brain that programs itself to think or interperet things in a certain way.
+   It may not be the correct way but because the brain is set on this way of thinking, it makes interpereting in 
+   other ways a bit more difficult.
+
+ * The brain also makes mistakes.   
