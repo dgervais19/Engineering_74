@@ -96,9 +96,10 @@
 
 
 ## Departments:
-	- BA: Business Admin
-	- QA: Quality Assurance
-	- Dev: Development
-	- PM Project Management
-	- UX: Front End
+
+	* BA: Business Admin
+	* QA: Quality Assurance
+	* Dev: Development
+	* PM Project Management
+	* UX: Front End
 
