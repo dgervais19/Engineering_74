@@ -95,11 +95,28 @@
 	- Timing
 
 
-## Departments:
+## Departments
 
 	* BA: Business Admin
 	* QA: Quality Assurance
 	* Dev: Development
 	* PM Project Management
 	* UX: Front End
+
+## Business Case
+
+ A justification for the proposed project needs to obtain authorisation from the Board. it includes:
+
+* Expected benefits (ROI)
+* Execution Timeline
+* Executive Summary
+* Investment Appraisal
+* Solutions / Options
+* Major Risks
+* Stakeholder management / Communication plan
+
+
+It also includes requirement gathering
+
+
 
