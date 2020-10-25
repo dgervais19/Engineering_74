@@ -120,3 +120,46 @@ It also includes requirement gathering
 
 
 
+## ROI
+
+ROI stands for Return of Investment. Refers to the worth of the product and talks about terms like cashflow and payback etc.
+
+## Risk
+
+It is important to identify risk early in a project in order to be better equipped to handle it. It helps you manage the risk within your timeline.
+
+Sources of Risk:
+
+* Technology
+* Scope
+* Team
+* Business
+* Economy
+* Comptetition
+
+### Dealing With Risk:
+
+* Avoid
+* Transfer
+* Reduce
+* Accept
+* Exploit design to mitigate risk
+* Share the risk with others
+* Ignore (only if you can provide justification)
+
+## Stakeholders
+![](power_grid.png)
+
+Manage stakeholders by keeping the most important people in the look and happy.
+
+1. Identify a stakeholder's interest and importance
+2. Act accordingly
+
+## Stakeholder Attitudes
+
+* Champions fight for the project cause
+* Supporters support the project and speak favourably
+* Neutral people are fine either way
+* Critic will be negative, needs to be conviced to be on the project's side
+* Opponent will find reasons to give you a hard time
+* Blockers actively block progress
